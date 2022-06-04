@@ -1,6 +1,8 @@
 body    {
     font-family: 'Montserrat', sans-serif;
-    overflow-x: hidden
+    overflow-x: hidden;
+
+    background-color: #C7C7C7;
     /*font-weight: 400;*/
 }
 
@@ -33,7 +35,7 @@ nav a {
 #images-vector  {
     padding-top: 5%;
     padding-bottom: 5%;
-    min-height:70%;
+    /*min-height:70%;*/
 }
 
 #f175  {
